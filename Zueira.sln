@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zueira.WebAPI", "Zueira.WebAPI\Zueira.WebAPI.csproj", "{304BA97F-7558-466C-8457-8F9DB6672F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zueira.Data", "Zueira.Data\Zueira.Data.csproj", "{674CB898-447D-4144-8BBE-C976DA7000C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zueira.Domain", "Zueira.Domain\Zueira.Domain.csproj", "{21E0A8CD-CE85-40B5-B8A8-97F44841BA14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zueira.Services", "Zueira.Services\Zueira.Services.csproj", "{1EDF57AE-B4A2-4B64-A352-2308E43066FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304BA97F-7558-466C-8457-8F9DB6672F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304BA97F-7558-466C-8457-8F9DB6672F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304BA97F-7558-466C-8457-8F9DB6672F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304BA97F-7558-466C-8457-8F9DB6672F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{674CB898-447D-4144-8BBE-C976DA7000C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674CB898-447D-4144-8BBE-C976DA7000C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674CB898-447D-4144-8BBE-C976DA7000C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674CB898-447D-4144-8BBE-C976DA7000C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E0A8CD-CE85-40B5-B8A8-97F44841BA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E0A8CD-CE85-40B5-B8A8-97F44841BA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E0A8CD-CE85-40B5-B8A8-97F44841BA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E0A8CD-CE85-40B5-B8A8-97F44841BA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDF57AE-B4A2-4B64-A352-2308E43066FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDF57AE-B4A2-4B64-A352-2308E43066FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDF57AE-B4A2-4B64-A352-2308E43066FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDF57AE-B4A2-4B64-A352-2308E43066FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
